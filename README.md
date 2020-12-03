@@ -1,2 +1,2 @@
-# treasure-island-start
+# treasure-island
 Treasure Island
